@@ -66,7 +66,6 @@
 		D419D29022888A2B000069D5 = {
 			isa = PBXGroup;
 			children = (
-				D4C92C9B228AB1DF0027B8EC /* CameraViewController.swift */,
 				D419D29B22888A2B000069D5 /* Parstagram */,
 				D419D29A22888A2B000069D5 /* Products */,
 				67391601659055FC41FE1218 /* Pods */,
@@ -85,6 +84,7 @@
 		D419D29B22888A2B000069D5 /* Parstagram */ = {
 			isa = PBXGroup;
 			children = (
+				D4C92C9B228AB1DF0027B8EC /* CameraViewController.swift */,
 				D419D29C22888A2B000069D5 /* AppDelegate.swift */,
 				D419D2A022888A2B000069D5 /* Main.storyboard */,
 				D4C92C9D228AC7D70027B8EC /* PostCell.swift */,
